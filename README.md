@@ -1,8 +1,5 @@
-# Supply_Chain_DA
-End-to-end Supply Chain Data Analytics project using Python, Pandas, and Tableau. Includes data cleaning, exploratory data analysis (EDA), KPI generation, feature engineering, and interactive dashboards to analyze sales, profit, shipping performance, customers, and product trends.
-
 # 📦 Supply Chain Data Analytics Dashboard
-
+https://public.tableau.com/app/profile/sharad.singh5279/viz/Supply_Chain_Data_Analysis/SupplyChainAnalytics?publish=yes
 An end-to-end Supply Chain Data Analytics project built using **Python**, **Pandas**, and **Tableau Public** to analyze sales performance, product trends, regional performance, and business insights through interactive dashboards.
 
 ---
